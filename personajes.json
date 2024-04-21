@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Palpatine",
+    "birth_year": "82BBY",
+    "eye_color": "yellow",
+    "gender": "male",
+    "hair_color": "grey",
+    "height": "170",
+    "mass": "75",
+    "skin_color": "pale",
+    "homeworld": "https://swapi.dev/api/planets/8/"
+  }
+]
